@@ -1,0 +1,108 @@
+.rectangulo{
+	width: 125px;
+	height:40px;
+	background-color: orange;
+	position: relative;
+	top: 37px;
+	left: 100px;
+
+}
+p{
+	margin-top: 10px;
+	margin-left:15px;
+}
+
+.logo{
+	width: 250px;
+	height: 30px;
+	left:200px;
+	top:49px;
+	position:relative;
+}
+
+.fondo{/*necesito definir los valores para ajustar la imagen de fondo*/
+	width: 960px;
+	height:500px;
+	margin-top: 0px;
+	margin-bottom: 100px;
+	background-size: 960px;
+	background-image: url("../img/grupal.jpg");/*poner imagen de fondo*/
+}
+.contacto p{
+	left: 460px;
+	top:-5px;
+	position:relative;
+	font-size: 12px;
+	text-indent: 0px;
+	font-weight: bold;
+	display: inline-block;
+}
+.lenguaje{
+	left:300px;
+	top:50;
+	bottom: 50px;
+	right: 10px;
+}
+.foto{
+	width: 230px;
+	height:150px;
+	position:relative;
+}
+.aprender{
+	left:100px;
+	top:50;
+	bottom: 50px;
+	right: -550px;
+}
+.emp{
+	left:-100px;
+	top:50;
+	bottom: 50px;
+	right: -550px;
+}
+.txt{
+	font-weight: bold;
+	font-size: 14px;
+	border-bottom: solid 1.5px gray;	
+	text-align: left;
+	bottom: 33px;
+	left:65px;
+	width: 280px;
+	position:relative;
+	}
+	.txt2{
+	font-weight: bold;
+	font-size: 14px;
+	border-bottom: solid 1.5px gray;
+	width: 230px;
+    text-align: left;
+	bottom:60px;
+	left:84px;
+	position:relative;
+	}
+	.txt3{
+	font-weight: bold;
+	font-size: 14px;
+	border-bottom: solid 1.5px gray;	
+	text-align: left;
+	bottom:60px;
+	left:-110px;
+	position:relative;
+	width: 225px;
+	}
+.foot{
+	background-color:  #454545;
+	color: white;
+	width: 960px;
+	height: 60px;
+	top:10px;
+	left:200px;
+	position:relative;
+}
+	.pfoot{
+	top:10px;
+	left:65px;
+	position:relative;
+	font-size: 12px;	
+		
+	}
